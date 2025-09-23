@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hola, soy Ángela 👋
+
+![ASIR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScGy9xt7D6lkTquSF5sQ4dIxi5VlqWU8nhlQ&s)
+
+## Sobre mí
+- 🎓 Estudiante de **ASIR** con ganas de seguir creciendo en el sector.
+- 💻 Me interesa especialmente la **administración de servidores Linux**, la **virtualización** y el **scripting**.
+- 🌱 Actualmente estoy aprendiendo más sobre **Docker** y **Ansible** para la automatización de infraestructuras.
+- 🤝 Abierto a colaborar en proyectos relacionados con redes, sistemas o seguridad.
+- 📫 Puedes contactarme a través de [angi.san1092@gmail.com](mailto:angi.san1092@gmail.com).
+
 
 <!--
 **asanrobb-arch/asanrobb-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
