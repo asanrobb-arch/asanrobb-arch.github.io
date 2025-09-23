@@ -1,26 +1,46 @@
 # Hola, soy Ángela 👋
 
-![ASIR](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScGy9xt7D6lkTquSF5sQ4dIxi5VlqWU8nhlQ&s)
+![ASIR](https://www.cpitia.org/wp-content/uploads/2022/10/historia-de-la-ingenieria-tecnica-en-informatica.jpg)
 
-## Sobre mí
-- 🎓 Estudiante de **ASIR** con ganas de seguir creciendo en el sector.
-- 💻 Me interesa especialmente la **administración de servidores Linux**, la **virtualización** y el **scripting**.
-- 🌱 Actualmente estoy aprendiendo más sobre **Docker** y **Ansible** para la automatización de infraestructuras.
-- 🤝 Abierto a colaborar en proyectos relacionados con redes, sistemas o seguridad.
-- 📫 Puedes contactarme a través de [angi.san1092@gmail.com](mailto:angi.san1092@gmail.com).
+---
 
+### 👨‍💻 Sobre mí
 
-<!--
-**asanrobb-arch/asanrobb-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una estudiante del Grado Superior en **Administración de Sistemas Informáticos en Red (ASIR)**. Me interesa especialmente la **administración de servidores Linux**, la **virtualización de sistemas** y la automatización de tareas a través de **scripting**. Busco constantemente aplicar mis conocimientos en proyectos prácticos para seguir creciendo en el sector.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Actualmente Aprendiendo
+
+Actualmente estoy profundizando mis conocimientos en tecnologías de automatización y contenedores, enfocándome en:
+- **Docker**
+
+---
+
+### 🏆 Certificaciones
+
+- **CCNAv7: Introduction to Networks** - *Cisco Networking Academy*
+
+---
+
+### 💻 Lenguajes
+
+- HTML5
+- CSS3
+- XML
+
+---
+
+### 🤝 Abierto a Colaborar
+
+Tengo un gran interés en participar en proyectos donde pueda aplicar y expandir mis conocimientos. ¡Si tienes alguna idea, no dudes en contactarme!
+
+---
+
+### 📫 Contacto
+
+Puedes contactarme a través de mi correo electrónico: **[angi.san1092@gmail.com](mailto:angi.san1092@gmail.com)**.
+
+---
+
+![Estadísticas de GitHub de assanrob](https://github-readme-stats.vercel.app/api?username=asanrobb-arch&show_icons=true&theme=radical)
