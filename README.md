@@ -26,7 +26,7 @@ Actualmente estoy profundizando mis conocimientos en tecnologías de automatizac
 ### 💻 Lenguajes
 
 - HTML5
-- CSS3
+- CSS
 - XML
 
 ---
